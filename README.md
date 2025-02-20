@@ -10,7 +10,8 @@
         <th>Details</th>
     </tr>
     <tr>
-        <td><strong>Phemex Invitation Code</strong></td>
+        <td><strong><a href="https://github.com/Phemex-Invitation-Code/" target="_blank">Phemex Invitation Code</a>
+</strong></td>
         <td>HMXFT5</td>
     </tr>
     <tr>
@@ -33,7 +34,7 @@
 
 <h2>Step-by-Step Guide to Using the Phemex Invitation Code</h2>
 <h3>1. Visit the Phemex Website or App</h3>
-<p>Open <a href="https://phemex.com">Phemex.com</a> or download the Phemex app from the App Store or Google Play.</p>
+<p>Open <a href="https://phemex.com/register?group=4944&referralCode=HMXFT5">Phemex.com</a> or download the Phemex app from the App Store or Google Play.</p>
 
 <h3>2. Enter Personal Details</h3>
 <p>Provide your email address and create a secure password. Agree to Phemex's Terms of Service.</p>
